@@ -29,6 +29,15 @@ A modern, futuristic eCommerce platform built with React, TypeScript, and cuttin
 - **GraphQL Ready** - Mock backend with Apollo Client setup
 - **Modern Build Tools** - Vite for fast development and building
 
+## 🚀 Screenshots
+![Todo List 2 Screenshot](screenshots/0.png)
+![Todo List 2 Screenshot](screenshots/1.png)
+![Todo List 2 Screenshot](screenshots/2.png)
+![Todo List 2 Screenshot](screenshots/3.png)
+![Todo List 2 Screenshot](screenshots/4.png)
+
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -49,3 +58,5 @@ npm install
 
 # Start the development server
 npm run dev
+
+
